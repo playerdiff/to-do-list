@@ -22,15 +22,14 @@ Siga os passos abaixo para rodar a aplicação localmente:
    ```bash
    git clone https://github.com/playerdiff/to-do-list.git
 
-Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto:
 ```bash
-Copiar código
 cd to-do-list
-Instale as dependências:
+
+3. Instale as dependências:
 ```bash
-Copiar código
 npm install
-Inicie a aplicação:
+
+4. Inicie a aplicação:
 ```bash
-Copiar código
 npm start
