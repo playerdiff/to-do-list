@@ -21,3 +21,16 @@ Siga os passos abaixo para rodar a aplicação localmente:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/playerdiff/to-do-list.git
+
+Navegue até o diretório do projeto:
+```bash
+Copiar código
+cd to-do-list
+Instale as dependências:
+```bash
+Copiar código
+npm install
+Inicie a aplicação:
+```bash
+Copiar código
+npm start
